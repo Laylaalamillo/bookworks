@@ -1,7 +1,7 @@
 ---
-title: About
+title: Introduction
 layout: page
-order: 503
+order: 1
 outputs:
   - html
 ---
