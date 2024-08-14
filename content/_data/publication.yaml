@@ -9,12 +9,12 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8080'
+url: 'https://lalamillo.github.io/bookworks/'
 
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Arguments
-subtitle: 
+subtitle: Revolutionary bookwork that reimagines the book as a medium and the way we read.
 reading_line:
 short_title:
 

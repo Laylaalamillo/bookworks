@@ -1,7 +1,233 @@
 figure_list:
   - id: fig-1
     src: figures/fig-1.jpg
-    caption: caption
+    # caption: caption
   - id: fig-2
     src: figures/fig-2.jpg
-    caption: caption
+    # caption: caption
+  - id: fig-3
+    src: figures/fig-3.jpg
+    # caption: caption
+  - id: fig-4
+    src: figures/fig-4.jpg
+    # caption: caption
+  - id: fig-5
+    src: figures/fig-5.jpg
+    # caption: caption
+  - id: fig-6
+    src: figures/fig-6.jpg
+    # caption: caption
+  - id: fig-7
+    src: figures/fig-7.jpg
+    # caption: caption
+  - id: fig-8
+    src: figures/Arguments_1a-2.jpg
+    # caption: caption
+  - id: fig-9
+    src: figures/Arguments_1a.jpg
+    # caption: caption
+  - id: fig-10
+    src: figures/Arguments_1b.jpg
+    # caption: caption
+  - id: fig-11
+    src: figures/Arguments_1c.jpg
+    # caption: caption
+  - id: fig-12
+    src: figures/Arguments_1d.jpg
+    # caption: caption
+  - id: fig-13
+    src: figures/Arguments_2a.jpg
+    # caption: caption
+  - id: fig-14
+    src: figures/Arguments_2b.jpg
+    # caption: caption
+  - id: fig-15
+    src: figures/Arguments_2c.jpg
+    # caption: caption
+  - id: fig-16
+    src: figures/Arguments_3a.jpg
+    # caption: caption
+  - id: fig-17
+    src: figures/Arguments_3b.jpg
+    # caption: caption
+  - id: fig-18
+    src: figures/Arguments_3c.jpg
+    # caption: caption
+  - id: fig-19
+    src: figures/Arguments_4a.jpg
+    # caption: caption
+  - id: fig-20
+    src: figures/Arguments_4b.jpg
+    # caption: caption
+  - id: fig-21
+    src: figures/Arguments_4c.jpg
+    # caption: caption
+  - id: fig-22
+    src: figures/Arguments_4d.jpg
+    # caption: caption
+  - id: fig-23
+    src: figures/Arguments_5a.jpg
+    # caption: caption
+  - id: fig-24
+    src: figures/Arguments_5b.jpg
+    # caption: caption
+  - id: fig-25
+    src: figures/Arguments_5c.jpg
+    # caption: caption
+  - id: fig-26
+    src: figures/Arguments_5d.jpg
+    # caption: caption
+  - id: fig-27
+    src: figures/Arguments_6a.jpg
+    # caption: caption
+  - id: fig-28
+    src: figures/Arguments_6b.jpg
+    # caption: caption
+  - id: fig-29
+    src: figures/Arguments_7a.jpg
+    # caption: caption
+  - id: fig-30
+    src: figures/Arguments_7b.jpg
+    # caption: caption
+  - id: fig-31
+    src: figures/Arguments_8a.jpg
+    # caption: caption
+  - id: fig-32
+    src: figures/Arguments_8b.jpg
+    # caption: caption
+  - id: fig-33
+    src: figures/Arguments_9a.jpg
+    # caption: caption
+  - id: fig-34
+    src: figures/Arguments_9b.jpg
+    # caption: caption
+  - id: fig-35
+    src: figures/Arguments_10a.jpg
+    # caption: caption
+  - id: fig-36
+    src: figures/Arguments_10b.jpg
+    # caption: caption
+  - id: fig-37
+    src: figures/Arguments_11a.jpg
+    # caption: caption
+  - id: fig-38
+    src: figures/Arguments_11b.jpg
+    # caption: caption
+  - id: fig-39
+    src: figures/Arguments_12a.jpg
+    # caption: caption
+  - id: fig-40
+    src: figures/Arguments_12b.jpg
+    # caption: caption
+  - id: fig-41
+    src: figures/Arguments_13a.jpg
+    # caption: caption
+  - id: fig-42
+    src: figures/Arguments_13b.jpg
+    # caption: caption
+  - id: fig-43
+    src: figures/Arguments_14a.jpg
+    # caption: caption
+  - id: fig-44
+    src: figures/Arguments_14b.jpg
+    # caption: caption
+  - id: fig-45
+    src: figures/Arguments_15a.jpg
+    # caption: caption
+  - id: fig-46
+    src: figures/Arguments_15b.jpg
+    # caption: caption
+  - id: fig-47
+    src: figures/Arguments_15c.jpg
+    # caption: caption
+  - id: fig-48
+    src: figures/Arguments_15d.jpg
+    # caption: caption
+  - id: fig-49
+    src: figures/Arguments_15e.jpg
+    # caption: caption
+  - id: fig-50
+    src: figures/Arguments_15f.jpg
+    # caption: caption
+  - id: fig-51
+    src: figures/Arguments_16a.jpg
+    # caption: caption
+  - id: fig-52
+    src: figures/Arguments_16b.jpg
+    # caption: caption
+  - id: fig-53
+    src: figures/Arguments_17a.jpg
+    # caption: caption
+  - id: fig-54
+    src: figures/Arguments_17b.jpg
+    # caption: caption
+  - id: fig-55
+    src: figures/Arguments_17c.jpg
+    # caption: caption
+  - id: fig-56
+    src: figures/Arguments_18a.jpg
+    # caption: caption
+  - id: fig-57
+    src: figures/Arguments_18b.jpg
+    # caption: caption
+  - id: fig-58
+    src: figures/Arguments_19a.jpg
+    # caption: caption
+  - id: fig-59
+    src: figures/Arguments_19b.jpg
+    # caption: caption
+  - id: fig-60
+    src: figures/Arguments_19c.jpg
+    # caption: caption
+  - id: fig-61
+    src: figures/Arguments_20a.jpg
+    # caption: caption
+  - id: fig-62
+    src: figures/Arguments_20b.jpg
+    # caption: caption
+  - id: fig-63
+    src: figures/Arguments_21a_1.jpg
+    # caption: caption
+  - id: fig-64
+    src: figures/Arguments_21a_2.jpg
+    # caption: caption
+  - id: fig-65
+    src: figures/Arguments_21b.jpg
+    # caption: caption
+  - id: fig-66
+    src: figures/Arguments_22a.jpg
+    # caption: caption
+  - id: fig-67
+    src: figures/Arguments_22b.jpg
+    # caption: caption
+  - id: fig-68
+    src: figures/Arguments_23a.jpg
+    # caption: caption
+  - id: fig-69
+    src: figures/Arguments_23b.jpg
+    # caption: caption
+  - id: fig-70
+    src: figures/Arguments_24a.jpg
+    # caption: caption
+  - id: fig-71
+    src: figures/Arguments_24b.jpg
+    # caption: caption
+  - id: fig-72
+    src: figures/Arguments_24c.jpg
+    # caption: caption
+  - id: fig-73
+    src: figures/Arguments_25a.jpg
+    # caption: caption
+  - id: fig-74
+    src: figures/Arguments_25b.jpg
+    # caption: caption
+  - id: fig-75
+    src: figures/cover.jpg
+    # caption: caption
+  - id: fig-76
+    src: figures/back_cover.jpg
+    # caption: caption
+  - id: fig-77
+    src: figures/carrion.jpg
+    # caption: caption
+  

@@ -1,5 +1,5 @@
 ---
-title: Parts of a Body House Book
+title: "*Parts of a Body House Book*"
 layout: essay
 order: 160
 # image:

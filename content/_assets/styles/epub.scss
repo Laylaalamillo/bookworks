@@ -83,14 +83,14 @@ body {
     }
   }
   font-size: 100%;
-  line-height: 1.5;
-  margin: 0;
-  /* RS will override margins anyways */
-  padding: 0;
-  widows: 2;
-  /* iBooks and Kobo support widows and orphans */
-  orphans: 2;
-}
+    line-height: 1.5;
+    margin: 0;
+    /* RS will override margins anyways */
+    padding: 0;
+    widows: 2;
+    /* iBooks and Kobo support widows and orphans */
+    orphans: 2;
+  }
 
 /* PAGE LAYOUT */
 

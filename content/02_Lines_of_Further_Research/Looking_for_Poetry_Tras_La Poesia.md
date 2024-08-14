@@ -1,5 +1,5 @@
 ---
-title: "Looking for Poety/Tras la Poesia"
+title: "*Looking for Poety/Tras la Poesía*"
 layout: essay
 order: 130
 # image:

@@ -1,5 +1,5 @@
 ---
-title: Fluxshoe
+title: "*FluxShoe Add End A 72-73*"
 layout: essay
 order: 150
 # image:

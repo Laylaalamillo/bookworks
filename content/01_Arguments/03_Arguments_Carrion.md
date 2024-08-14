@@ -1,9 +1,10 @@
 ---
-title: Arguments
+title: "*Arguments*"
 layout: essay
 order: 60
 ---
-***Arguments**, 1973*
+{% figure 'fig-75' %}
+*Arguments*, 1973
 
 Ulises Carrión (Mexican, 1941-1989)
 

@@ -5,6 +5,7 @@ order: 50
 # image:
 ---
 ### Relevant biographical knowledge used to contextualize the research and use as a reference. 
+{% figure 'fig-77', 'is-pulled-left' %}
 
 **1941**
 
@@ -44,7 +45,7 @@ Carrión died from AIDS at 49 in Amsterdam leaving us with these words:
 
 *“*Do not be sad. You have my books and videos*.”*
 
-Ulises Carrión was a prolific Mexican artist delving into performance art, film, exhibitions, bookworks, conceptual writings, and mail art. Though Carrión held may titles, for the purpose of this research, we will focus on three: playwright, conceptual writer, and maker of bookworks.
+Ulises Carrión was a revolutionary Mexican artist delving into performance art, film, exhibitions, bookworks, conceptual writings, and mail art. Though Carrión held may titles, for the purpose of this research, we will focus on three: playwright, conceptual writer, and maker of bookworks.
 
 Carrión studied literature and philosophy at UNAM (The National University of Mexico). Early in his career, he grew acclaim in the Mexican literary scene with his two plays: *La Muerte de Miss O*, 1966, and *De Alemania*, 1970. There was a stark pivot in Carrión’s thinking after the creation of these two plays when he moved to Amsterdam in 1972. He began to break into thinking conceptually about the potential of language, structure, and the book as a medium. In 1973, *Arguments*, the subject of this study, was published by Beau Geste Press. In 1975, Carrión’s essay, “The New Art of Making Books” was published in *Kontexts* no. 6/7, edited by Michael Gibbs.
 
