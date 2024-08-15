@@ -4,14 +4,12 @@ layout: essay
 order: 60
 ---
 {% figure 'fig-75' %}
-*Arguments*, 1973
 
+***Arguments***, 1973
 Ulises Carrión (Mexican, 1941-1989)
-
 Cullompton, UK: Beau Geste Press
 
 Materials
-
 -   200 copies printed on Strathmore Grandee paper
 
 -   200 copies printed on Huntsman white cartridge

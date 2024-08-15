@@ -230,4 +230,13 @@ figure_list:
   - id: fig-77
     src: figures/carrion.jpg
     # caption: caption
+  - id: fig-78
+    src: figures/desk.jpg
+    # caption: caption
+  - id: fig-79
+    src: figures/proseandpoetry_2.jpg
+    # caption: caption
+  - id: fig-80
+    src: figures/proseandpoetry_3.jpg
+    # caption: caption
   
